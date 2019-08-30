@@ -1,12 +1,11 @@
 <p align="center"><img src="https://www.boehmod.com/img/loading/launcher-logo.png" alt="BoehMod: Official Launcher"></p>
-
+![Screenshot 1](https://www.boehmod.com/img/launcher.png)
+---
 <h1 align="center">BoehMod: Official Launcher</h1>
 
 [<p align="center"><img src="https://img.shields.io/github/downloads/BoehMod/LauncherRelease/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/ElectronLauncher/releases)</p>
 
 <p align="center">Join BoehMod servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
-
-![Screenshot 1](https://user-images.githubusercontent.com/18062275/64054107-62583380-cb3a-11e9-905d-833238203cb4.png)
 
 ## Features
 
