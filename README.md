@@ -37,12 +37,12 @@ This is not an exhaustive list. Download and install the launcher to gauge all i
 
 You can download from [GitHub Releases](https://github.com/BoehMod/LauncherRelease/releases)
 
-#### Latest Release
+#### Latest Stable Release
 
 [![](https://img.shields.io/github/v/release/BoehMod/LauncherRelease.svg?style=flat-square)](https://github.com/BoehMod/LauncherRelease/releases/latest)
 
 #### Latest Pre-Release
-[![](https://img.shields.io/github/v/release/BoehMod/LauncherRelease/all.svg?style=flat-square)](https://github.com/BoehMod/LauncherRelease/releases)
+[![](https://img.shields.io/github/v/release/BoehMod/LauncherRelease.svg?include_prereleases&style=flat-square)](https://github.com/BoehMod/LauncherRelease/releases)
 
 **Supported Platforms**
 
