@@ -1,10 +1,8 @@
-<p align="center"><img src="https://www.boehmod.com/img/loading/launcher-logo.png" alt="BoehMod: Official Launcher"></p>
-
 ![Screenshot 1](https://www.boehmod.com/img/launcher.png)
 
 ---
 
-<h1 align="center">BoehMod: Official Launcher</h1>
+<p align="center"><img src="https://www.boehmod.com/img/loading/launcher-logo.png" alt="BoehMod: Official Launcher"></p>
 
 [<p align="center"><img src="https://img.shields.io/github/downloads/BoehMod/LauncherRelease/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/ElectronLauncher/releases)</p>
 
