@@ -15,7 +15,7 @@ fi
 echo "Done."
 
 echo "Cloning the GitHub repository..."
-git clone https://github.com/BoehMod/ElectronLauncher
+git clone https://github.com/BoehMod/BoehMod-Launcher
 echo "Done."
 
 cd "$PWD"/ElectronLauncher
@@ -24,7 +24,7 @@ echo "Installing the launcher (Grabbing Node and Electron modules)..."
 npm -qqq install
 echo "Done."
 
-SCRIPT="$HOME/Desktop/battlefields.sh"
+SCRIPT="$HOME/Desktop/boehmodlauncher.sh"
 
 echo "Creating run script..."
 touch "$SCRIPT"
