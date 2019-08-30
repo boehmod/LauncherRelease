@@ -1,4 +1,5 @@
 <p align="center"><img src="https://www.boehmod.com/img/loading/launcher-logo.png" alt="BoehMod: Official Launcher"></p>
+
 ![Screenshot 1](https://www.boehmod.com/img/launcher.png)
 
 ---
