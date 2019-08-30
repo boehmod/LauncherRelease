@@ -54,6 +54,8 @@ If you download from the [Releases](https://github.com/BoehMod/LauncherRelease/r
 | macOS | `BoehModLauncher-v{VERSION}.dmg` |
 | Linux x64 | `BoehModLauncher-v{VERSION}.AppImage` |
 
+An install for Debian and its derivatives (including Ubuntu) can be found [here.](https://raw.githubusercontent.com/boehmod/LauncherRelease/master/install-launcher.sh)
+
 ## Console
 
 To open the console, use the following keybind.
