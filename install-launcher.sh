@@ -18,7 +18,7 @@ echo "Cloning the GitHub repository..."
 git clone https://github.com/BoehMod/BoehMod-Launcher
 echo "Done."
 
-cd "$PWD"/ElectronLauncher
+cd "$PWD"/BoehMod-Launcher
 
 echo "Installing the launcher (Grabbing Node and Electron modules)..."
 npm -qqq install
