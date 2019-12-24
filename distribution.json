@@ -10,10 +10,10 @@
       "name": "CounterCraft",
       "description": "Official CounterCraft Matchmaking & Cloud",
       "icon": "https://www.mccountercraft.net/img/cclogosquare.png",
-      "version": "1.6.3a",
+      "version": "1.6.4a",
       "address": "www.mccountercraft.net",
       "minecraftVersion": "1.6.4",
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -230,6 +230,215 @@
             "MD5": "09E27D55E06E472C95C4FD6CCAD88ECB",
             "path": "mods/CounterCraft.jar",
             "url": "https://github.com/boehmod/CounterCraftRelease/releases/download/1.6.4a/CounterCraft.jar"
+          }
+        }
+      ]
+    },
+    {
+      "id": "deci",
+      "name": "Decimation",
+      "description": "Official Decimation Modpack",
+      "icon": "https://i.imgur.com/GrSF9T9.jpg",
+      "version": "1.20.6f",
+      "address": "www.mcdecimation.net",
+      "minecraftVersion": "1.7.10",
+      "mainServer": true,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.7.10-10.13.4.1614-1.7.10",
+          "name": "Minecraft Forge",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 3018833,
+            "MD5": "ADD0FBA161C4652A96EFB4264EC2D9EC",
+            "url": "https://www.boehmod.com/download/launcher/1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
+          },
+          "subModules": [
+            {
+              "id": "net.minecraft:launchwrapper:1.12",
+              "name": "Mojang (LaunchWrapper)",
+              "type": "Library",
+              "artifact": {
+                "size": 32999,
+                "MD5": "934B2D91C7C5BE4A49577C9E6B40E8DA",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/launchwrapper-1.12.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-all:5.0.3",
+              "name": "Mojang (ASM)",
+              "type": "Library",
+              "artifact": {
+                "size": 241639,
+                "MD5": "C5CC4613BBDFBA3CCF5F0AB85390D0B8",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/asm-all-5.0.3.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-library:2.11.1",
+              "name": "Minecraft Forge (scala-library)",
+              "type": "Library",
+              "artifact": {
+                "size": 5612286,
+                "MD5": "6F9208AF82F7C2811A6C0DE049CFE279",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/scala-library-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-compiler:2.11.1",
+              "name": "Minecraft Forge (scala-compiler)",
+              "type": "Library",
+              "artifact": {
+                "size": 13576400,
+                "MD5": "D9FC987043FCF8C25D0F73BC7CA36A47",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/scala-compiler-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-actors-migration:2.11-1.1.0",
+              "name": "Minecraft Forge (scala-actors-migration)",
+              "type": "Library",
+              "artifact": {
+                "size": 58767,
+                "MD5": "7F7B169667D14B3092A285BADF9487F7",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/scala-actors-migration_2.11-1.1.0.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-continuations-library:2.11.1-1.0.2",
+              "name": "Minecraft Forge (scala-continuations-library)",
+              "type": "Library",
+              "artifact": {
+                "size": 26551,
+                "MD5": "6515CACAD64CD1ED19BD283B6EAFA640",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/scala-continuations-library_2.11-1.0.2.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-continuations-plugin:2.11.1-1.0.2",
+              "name": "Minecraft Forge (scala-continuations-plugin)",
+              "type": "Library",
+              "artifact": {
+                "size": 209882,
+                "MD5": "40E725B6F9DA3A52E6ADFFD94ABB8290",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/scala-continuations-plugin_2.11.1-1.0.2.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-parser-combinators:2.11-1.0.1",
+              "name": "Minecraft Forge (scala-parser-combinators)",
+              "type": "Library",
+              "artifact": {
+                "size": 430247,
+                "MD5": "FE20384E064DD025E144BEE2858ABF1A",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/scala-parser-combinators_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-reflect:2.11.1",
+              "name": "Minecraft Forge (scala-reflect)",
+              "type": "Library",
+              "artifact": {
+                "size": 4415437,
+                "MD5": "08B829B97A4258421B7E5C902B8A08AC",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/scala-reflect-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-swing:2.11-1.0.1",
+              "name": "Minecraft Forge (scala-swing)",
+              "type": "Library",
+              "artifact": {
+                "size": 736831,
+                "MD5": "5D8C98094F1AE58184ED2E087FCA7C44",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/scala-swing_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-xml:2.11-1.0.2",
+              "name": "Minecraft Forge (scala-xml)",
+              "type": "Library",
+              "artifact": {
+                "size": 660552,
+                "MD5": "A54CA733EF0EDE9C343F1CE9ED0B527C",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/scala-xml_2.11-1.0.2.jar"
+              }
+            },
+            {
+              "id": "lzma:lzma:0.0.1",
+              "name": "Mojang (LZMA)",
+              "type": "Library",
+              "artifact": {
+                "size": 5762,
+                "MD5": "A3E3C3186E41C4A1A3027BA2BB23CDC6",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/lzma-0.0.1.jar"
+              }
+            },
+            {
+              "id": "net.sf.jopt-simple:jopt-simple:4.5",
+              "name": "Mojang (Jopt Simple)",
+              "type": "Library",
+              "artifact": {
+                "size": 61311,
+                "MD5": "1372BD4823BB1EF61E7DB6724F601150",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/jopt-simple-4.5.jar"
+              }
+            },
+            {
+              "id": "com.google.guava:guava:17.0",
+              "name": "Mojang (Google Guava)",
+              "type": "Library",
+              "artifact": {
+                "size": 2243036,
+                "MD5": "89FEF81C2ADFA9B50A64ED5CD5D8C155",
+                "url": "https://repo1.maven.org/maven2/com/google/guava/guava/17.0/guava-17.0.jar"
+              }
+            },
+            {
+              "id": "com.typesafe:config:1.2.1",
+              "name": "MinecraftForge (typesafe-config)",
+              "type": "Library",
+              "artifact": {
+                "size": 221173,
+                "MD5": "992248074F0D2DF7CF97FA3C6529AE35",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/config-1.2.1.jar"
+              }
+            },
+            {
+              "id": "org.apache.commons:akka-actor:2.11-2.3.3",
+              "name": "Minecraft Forge (akka-actor)",
+              "type": "Library",
+              "artifact": {
+                "size": 2553197,
+                "MD5": "71b48e6b3e1b1dc73fe705604b9c7584",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/akka-actor_2.11-2.3.3.jar"
+              }
+            },
+            {
+              "id": "org.apache.commons:commons-lang3:3.3.2",
+              "name": "Mojang (Commons Lang)",
+              "type": "Library",
+              "artifact": {
+                "size": 412739,
+                "MD5": "3128BF75A2549EBE38663401191BACAB",
+                "url": "http://www.boehmod.com/download/launcher/1.7.10/commons-lang3-3.3.2.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "net.mcdecimation:Decimation:1.20.6f",
+          "name": "Decimation Mod Jar",
+          "type": "File",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 149477730,
+            "MD5": "6EABFA9A7F62A3B8D79BA8154B519243",
+            "path": "mods/Decimation.jar",
+            "url": "https://github.com/ScottehBoeh/DecimationRelease/releases/download/1.20.6/Decimation.jar"
           }
         }
       ]
