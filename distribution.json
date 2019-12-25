@@ -440,6 +440,20 @@
             "path": "mods/Decimation.jar",
             "url": "https://github.com/ScottehBoeh/DecimationRelease/releases/download/1.20.6/Decimation.jar"
           }
+        },
+        {
+          "id": "net.mcdecimation:DecimationVoiceChat:1.10.7f",
+          "name": "Decimation Voice Chat Mod Jar",
+          "type": "File",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 386488,
+            "MD5": "4B4F6EE416B4CEB3939A8B6FAF4B0B34",
+            "path": "mods/DecimationVoiceChat.jar",
+            "url": "https://github.com/boehmod/DecimationRelease/releases/download/1.10.7/DecimationVoiceChat.jar"
+          }
         }
       ]
     }
