@@ -10,7 +10,7 @@
       "name": "CounterCraft",
       "description": "Official CounterCraft Matchmaking & Cloud",
       "icon": "https://www.mccountercraft.net/img/cclogosquare.png",
-      "version": "1.6.7a",
+      "version": "1.6.8a",
       "address": "www.mccountercraft.net",
       "minecraftVersion": "1.6.4",
       "mainServer": false,
@@ -219,17 +219,17 @@
           ]
         },
         {
-          "id": "com.ferullogaming:countercraft:1.6.7a",
+          "id": "com.ferullogaming:countercraft:1.6.8a",
           "name": "CounterCraft Mod Jar",
           "type": "File",
           "required": {
             "value": true
           },
           "artifact": {
-            "size": 44305731,
-            "MD5": "75FF9B65797B1B78BD844741F501F7F5",
+            "size": 44305762,
+            "MD5": "51EA79B25323D924598962670C16D720",
             "path": "mods/CounterCraft.jar",
-            "url": "https://github.com/boehmod/CounterCraftRelease/releases/download/1.6.7a/CounterCraft.jar"
+            "url": "https://github.com/boehmod/CounterCraftRelease/releases/download/1.6.8a/CounterCraft.jar"
           }
         }
       ]
