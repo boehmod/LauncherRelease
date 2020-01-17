@@ -239,7 +239,7 @@
       "name": "Decimation",
       "description": "Official Decimation Modpack",
       "icon": "https://i.imgur.com/GrSF9T9.jpg",
-      "version": "1.20.6f",
+      "version": "1.20.7f",
       "address": "www.mcdecimation.net",
       "minecraftVersion": "1.7.10",
       "mainServer": true,
@@ -428,17 +428,17 @@
           ]
         },
         {
-          "id": "net.mcdecimation:Decimation:1.20.6f",
+          "id": "net.mcdecimation:Decimation:1.20.7f",
           "name": "Decimation Mod Jar",
           "type": "File",
           "required": {
             "value": true
           },
           "artifact": {
-            "size": 149477730,
-            "MD5": "6EABFA9A7F62A3B8D79BA8154B519243",
+            "size": 149856534,
+            "MD5": "532C3AFB1705EB1642E67F4D129AAD08",
             "path": "mods/Decimation.jar",
-            "url": "https://github.com/ScottehBoeh/DecimationRelease/releases/download/1.20.6/Decimation.jar"
+            "url": "https://github.com/ScottehBoeh/DecimationRelease/releases/download/1.20.7/Decimation.jar"
           }
         },
         {
