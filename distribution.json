@@ -7,7 +7,7 @@
       "name": "Decimation",
       "description": "Deci converts Minecraft into a zombie-filled apocalyptic wasteland.",
       "icon": "http://www.boehmod.com/download/launcher/icons/deci.png",
-      "version": "1.20.7f",
+      "version": "1.20.8f",
       "address": "www.mcdecimation.net",
       "minecraftVersion": "1.7.10",
       "mainServer": true,
@@ -203,10 +203,10 @@
             "value": true
           },
           "artifact": {
-            "size": 149856534,
-            "MD5": "532C3AFB1705EB1642E67F4D129AAD08",
+            "size": 149957250,
+            "MD5": "205FA0656685238CA4F6FA0E12E2992D",
             "path": "mods/Decimation.jar",
-            "url": "https://github.com/ScottehBoeh/DecimationRelease/releases/download/1.20.7/Decimation.jar"
+            "url": "https://github.com/ScottehBoeh/DecimationRelease/releases/download/1.20.8/Decimation.jar"
           }
         },
         {
